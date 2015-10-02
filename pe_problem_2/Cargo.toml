@@ -1,0 +1,4 @@
+[package]
+name = "pe_problem_2"
+version = "0.1.0"
+authors = ["Dustin Hittenmiller <dhittenmiller@gmail.com>"]
